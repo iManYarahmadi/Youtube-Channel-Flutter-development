@@ -8,7 +8,7 @@ Welcome to our collection of awesome YouTube channels! 🌟
 | ------------------------------------------------ | -------------------------------------------------------- |
 | [Flutter](https://www.youtube.com/@flutterdev) | Official Flutter YouTube Channel providing tutorials, updates, and more. |
 | [Trey Codes](https://www.youtube.com/@TreyHope) | Dive into coding and Flutter with Trey Codes' insightful tutorials and projects. |
-| ![YouTube Logo](https://i.imgur.com/OAdPGpJ.png) [Flutter Mapp](https://www.youtube.com/@FlutterMapp) | Explore Flutter development with Flutter Mapp's in-depth guides and examples. |
+| [Flutter Mapp](https://www.youtube.com/@FlutterMapp) | Explore Flutter development with Flutter Mapp's in-depth guides and examples. |
 | [Vandad Nahavandipoor](https://www.youtube.com/@VandadNP) | Vandad Nahavandipoor shares valuable insights and tips on Flutter development. |
 | [dbestech](https://www.youtube.com/@dbestech) | Learn best tech practices and get hands-on with Flutter tutorials on dbestech's channel. |
 | [The Flutter Way](https://www.youtube.com/@TheFlutterWay) | The Flutter Way offers tutorials, tips, and real-world examples for Flutter enthusiasts. |
@@ -45,8 +45,7 @@ Welcome to our collection of awesome YouTube channels! 🌟
 | [Flutter From Scratch](https://www.youtube.com/@flutterfromscratch9913) | Learn Flutter from scratch with tutorials and practical coding examples. |
 | [Flutter Europe](https://www.youtube.com/@fluttereurope) | Explore Flutter development with tutorials and insights from the Flutter Europe community. |
 | [Flutter Agency](https://www.youtube.com/@flutteragency) | Flutter Agency provides tutorials and tips on Flutter app development and best practices. |
-|[Code Algo](https://www.youtube.com/@CodeAlgo) | Code Algo's channel covers Flutter, algorithms, and coding challenges for developers.
-|
+|[Code Algo](https://www.youtube.com/@CodeAlgo) | Code Algo's channel covers Flutter, algorithms, and coding challenges for developers.|
 | [Coding with Hadi](https://www.youtube.com/@codingwithhadi) | Coding with Hadi offers Flutter tutorials and coding challenges for developers of all levels. |
 | [Flutter Guys](https://www.youtube.com/@flutterguys) | Flutter Guys share tutorials, projects, and insights into Flutter development. |
 | [Abdul Aziz Ahwan](https://www.youtube.com/@abdulazizahwan) | Abdul Aziz Ahwan's channel covers Flutter development, tutorials, and coding challenges. |
@@ -61,6 +60,6 @@ Welcome to our collection of awesome YouTube channels! 🌟
 | --------------------------------------------- | ------------------------------------------------- |
 | [imaNNeo](https://www.youtube.com/@imaNNeO) | Dive into game development with imaNNeo's tutorials and projects. |
 | [Spellthorn](https://www.youtube.com/@Spellthorn) | Explore game development with Spellthorn's insights and creative projects. |
-| ![YouTube Logo](https://i.imgur.com/OAdPGpJ.png) [Craig Oda](https://www.youtube.com/@CraigOda) | Craig Oda shares tips and tricks for game development using the Flame Engine. |
+| [Craig Oda](https://www.youtube.com/@CraigOda) | Craig Oda shares tips and tricks for game development using the Flame Engine. |
 | [DevKage](https://www.youtube.com/@DevKage) | Join DevKage in exploring the world of game development with Flutter. |
 | [Mobile Development with Andrii](https://www.youtube.com/@mobiledevelopmentwithandrii) | Andrii's channel covers mobile game development with insights and tutorials. |
