@@ -6,7 +6,7 @@ Welcome to our collection of awesome YouTube channels! 🌟
 
 | Channel                                          | Description                                              |
 | ------------------------------------------------ | -------------------------------------------------------- |
-| ![YouTube Logo](https://i.imgur.com/OAdPGpJ.png) [Flutter](https://www.youtube.com/@flutterdev) | Official Flutter YouTube Channel providing tutorials, updates, and more. |
+| ![YouTube Logo](https://cdn.nody.ir/files/2023/02/24/nody-transparent-youtube-1677244812.jpeg) [Flutter](https://www.youtube.com/@flutterdev) | Official Flutter YouTube Channel providing tutorials, updates, and more. |
 | ![YouTube Logo](https://i.imgur.com/OAdPGpJ.png) [Trey Codes](https://www.youtube.com/@TreyHope) | Dive into coding and Flutter with Trey Codes' insightful tutorials and projects. |
 | ![YouTube Logo](https://i.imgur.com/OAdPGpJ.png) [Flutter Mapp](https://www.youtube.com/@FlutterMapp) | Explore Flutter development with Flutter Mapp's in-depth guides and examples. |
 | ![YouTube Logo](https://i.imgur.com/OAdPGpJ.png) [Vandad Nahavandipoor](https://www.youtube.com/@VandadNP) | Vandad Nahavandipoor shares valuable insights and tips on Flutter development. |
