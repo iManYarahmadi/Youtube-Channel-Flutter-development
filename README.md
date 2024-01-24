@@ -1,4 +1,4 @@
-# Awesome YouTube Channels For Learning Flutter
+# Awesome YouTube Channels For Learning Flutter Development
 
 Welcome to our collection of awesome YouTube channels! 🌟
 
